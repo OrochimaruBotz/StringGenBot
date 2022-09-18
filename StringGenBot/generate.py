@@ -32,8 +32,7 @@ from telethon.errors import (
 )
 
 
-ask_ques = "**» Daftar String Session Yang Ingin Anda Buat.\n\n• Telethon Untuk (Gojo Userbot)\n
-• Pyrogram Untuk (Bot Music) :**"
+ask_ques = "**» Daftar String Session Yang Ingin Anda Buat.\n\n• Telethon Untuk (Gojo Userbot)\n• Pyrogram Untuk (Bot Music) :**"
 buttons_ques = [
     [
         InlineKeyboardButton("ᴩʏʀᴏɢʀᴀᴍ", callback_data="pyrogram1"),
