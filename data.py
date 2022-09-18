@@ -15,7 +15,6 @@ class Data:
 
     START = """
 Hᴇʏ {},
-Saya Adalah {},
-Saya Adalah Bot String Yang Di Rancang Oleh [Humanz](t.me/BijiKacang).\n\nUntuk Mengambil String Dengan Mudah Dan Aman\n\n━━━━━━━━━━━━━━━━━━━━━━━\nJika Anda Tidak Mempercayai Bot Ini
-Jangan Gunakan Bot Ini Dan Blokir Saja Aja!\n━━━━━━━━━━━━━━━━━━━━━━━\nMaintance By [Humanz](t.me/BijiKacang
+{}Adalah Bot Khusus Untuk Mengambil String Session Dengan Mudah Dan Aman. Yang Di Rancang Oleh [Humanz](t.me/BijiKacang).\n━━━━━━━━━━━━━━━━━━━━━━━\nJika Anda Tidak Mempercayai Bot Ini
+Jangan Gunakan Bot Ini Dan Blokir Saja Aja!\n━━━━━━━━━━━━━━━━━━━━━━━\nMaintance By [Humanz](t.me/BijiKacang)
     """
